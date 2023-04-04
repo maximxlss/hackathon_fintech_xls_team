@@ -1,4 +1,5 @@
 # XLSinvest
+Проект команды xls team на [Хакатоне \[Финтех\]](https://www.youtube.com/playlist?list=PLrKehKb1TdZWMtJScyvP0DrXDKwJMACa1)
 
 - Установка: `pip install -r requirements.txt`
 - Запуск: `streamlit run app.py`
